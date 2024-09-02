@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to My Blog"
+title: 
 ---
 
 ![Description of your image](/assets/images/mirror.png)
