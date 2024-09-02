@@ -2,11 +2,11 @@
 layout: post
 title:  "Never lose few people"
 date:   2024-01-29 14:47:24 -0700
-background: '/assets/images/123.png'
+background: '/assets/images/mirror.png'
 categories: mind
 ---
 
-![My helpful screenshot](/assets/images/123.png) <br>
+![My helpful screenshot](/assets/images/mirror.png) <br>
 Wisdom is taking decisions to your advantage.
 
 It might be moving to new city, or taking a new job or starting something on your own or ordering a meal.
