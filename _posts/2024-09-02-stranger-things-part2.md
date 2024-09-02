@@ -1,43 +1,49 @@
 ---
 layout: post
-title:  "Cosmos as a conscious being"
+title:  "Stranger Things — Part2 : The ride"
 date:   2024-09-02
-background: '/assets/images/cosmos.png'
+background: '/assets/images/ride.png'
 categories: mind
 ---
-![cover image](/assets/images/cosmos.png) <br><br>
-I think, Cosmos is a conscious being. It could think, feel and do just like us. Probably has more senses than we possess.
+![cover image](/assets/images/ride.png) <br><br>
+I can’t bend my right knee beyond a point, after I met with an accident in 2002 I had PTS (Post Traumatic Stress) where my cartillege hardened while healing a fracture.
 
-We are limited by our senses. Our perception of reality is suitable to our survival. We see the range of spectrum where it matters to us. Just like few insects can only smell to find its mate. We see to find our food and flee from our predators and similarly our limited 5 senses.
+The accident happened when I was riding a motorbike with my friend Srikanth on a particular road from our college to house. It was not the regular route we take everyday.
 
-We think consciousness resides in our brain. Is it a memory? Is it a thought? an Electric signal? A chemical reaction? I don’t know. May be we are limited by our senses to know it.
+<b>The road is less travelled, literally.</b>
 
-But, it is the thing which reminds us that we exist.
+Hardly people use it to get to the city from this far off place where our college is located. It had a character of its own.
 
-There is a possibility that there could be more information, more messages hidden in this universe from our plain sight.
+Have you ever had some association with any routes like this? Maybe your route to school which you took as a child or the route you used to take to work everyday. It is interesting how these routes evoke few strange memories when you take them again later.
 
-I always felt, Earth is an organism too. It breathes, it goes through cycles of seasons, maintains a balance and timing.
+It happened with me after 2 years.
 
-But it could be extended to the whole universe.
+I had a dream of going on that road like that, again on a bike. This time Srikanth was driving and I was on backseat. After going some distance on this lonely road, we had to stop.
 
-If there is some disturbance, everything is adjusted to bring balance, just like a living being.
+There was a huge fort wall like structure exactly across the road. Strange! I thought. I went close, looked up and touched the stone wall. There was no one near by. We were worried and took a U turn.
 
-The rising global temperatures were a concern and a balance is brought through a rogue virus.
+<b>I heard a big thunder. I was shaken a bit and I woke up.</b>
 
-How is everything so beautifully connected ?
+After few weeks, comes one of the interesting days of my life. The day that has answered many questions of my life which I had at that time like confidence, creativity, friendship, pride, trust and also started a chapter of strange events.
 
-A conscious being is well connected and is aware of the past and the future and can take actions to bring back the balance and do a course correction.
+All of us were exhausted on the long day of 1st campus placements. We had tests, group discussions, interviews till evening for the 2 companies that visited us. There was some time before we gathered to hear out the results. Srikanth and myself thought of catching some fresh air.
 
-In the cell division , parent divides into daughters and so on. They even mutate and transform to other living organisms. And, so we are here.
+<b>You guessed it. We started the bike to go on that lonely road.</b>
 
-In Big Bang, the universe was formed from one single source of high density and high temperature. Do you see the connection?
+It didn’t take me long to realise the exact scenes repeating from my dream. Same weather, same time. I was almost waiting to see what happens next.
 
-If the children ( we or entire living organisms ) have a conscious , the parent might have been definitely conscious. The dark matter could also be conscious.
+I was expecting to see the wall.
 
-Cosmos is conscious.
+I heard the thunder.
 
-“The only dominant theory we have of consciousness says that it is associated with complexity — with a system’s ability to act upon its own state and determine its own fate.”Chandra X-Ray Observatory Center / NASA/CXC/SAO
+It started raining heavily.
 
-Dig deep?
+We didn’t want to stop anywhere but took a U turn , so that we don’t miss the anouncement. I didn’t find the wall, but just an old house near by.
 
-https://www.nbcnews.com/mach/science/universe-conscious-ncna772956
+—
+
+I got selected and so is Srikanth and other friends.
+
+Since then this phenomenon of dreams extending into reality repeated for couple of more times and then stopped.
+
+But I always leave my door open, to <b>Stranger Things</b> in life.
