@@ -5,6 +5,7 @@ date:   2024-09-02
 background: '/assets/images/glitch.png'
 categories: mind
 ---
+![cover image](/assets/images/glitch.png) <br>
 To pay bills?
 
 To buy new things?
