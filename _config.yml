@@ -21,7 +21,7 @@
 title: Manoj Manduva
 email: manojvmanduva@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-background: 'assets/images/123.png'
+background: '/assets/images/123.png'
   My blog aka 'Mind Meets Machines' is a collection of thoughts, stories and comments on topics like philosophy, neuroscience, design, technology and people.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://manojmanduva.com" # the base hostname & protocol for your site, e.g. http://example.com
