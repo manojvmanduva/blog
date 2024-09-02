@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Never lose few people"
-date:   2024-01-29 14:47:24 -0700
+date:   2024-09-02
 background: '/assets/images/mirror.png'
 categories: mind
 ---
